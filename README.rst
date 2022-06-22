@@ -1,11 +1,11 @@
-# jmespathCustomFunctions
+jmespathCustomFunctions
+========
 
-
-Extracted from (jmespath.py repo)[https://github.com/jmespath/jmespath.py]
 
 Custom Functions
 ~~~~~~~~~~~~~~~~
 
+(Reference: `jmespath.py repo <https://github.com/jmespath/jmespath.py>`__)
 The JMESPath language has numerous
 `built-in functions
 <http://jmespath.org/specification.html#built-in-functions>`__, but it is
@@ -83,6 +83,7 @@ Another example
 
 
 .. code:: python
+
     import jmespath
     from jmespath import functions
 
